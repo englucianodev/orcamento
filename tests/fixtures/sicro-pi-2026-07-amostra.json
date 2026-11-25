@@ -1,0 +1,1029 @@
+{
+ "fonte": "SICRO",
+ "layout": "sicro-relatorios-2024",
+ "uf": "PI",
+ "mesAno": "2026-07-01",
+ "desonerado": false,
+ "insumos": [
+  {
+   "codigo": "P9821",
+   "descricao": "Pedreiro",
+   "unidade": "h",
+   "preco": "29.323",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MÃO DE OBRA",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9050",
+   "descricao": "Guindaste móvel compacto com plataforma integrada sobre pneus com 2 eixos com capacidade de 18 t - 97 kW",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "422.0174",
+   "origemPreco": null
+  },
+  {
+   "codigo": "P9801",
+   "descricao": "Ajudante",
+   "unidade": "h",
+   "preco": "23.5469",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MÃO DE OBRA",
+   "origemPreco": null
+  },
+  {
+   "codigo": "P9830",
+   "descricao": "Montador",
+   "unidade": "h",
+   "preco": "35.1473",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MÃO DE OBRA",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M2758",
+   "descricao": "Aparelho de apoio metálico elastomérico fixo com 4 chumbadores e capacidade de 1.500 kN",
+   "unidade": "un",
+   "preco": "4890.002",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "P9824",
+   "descricao": "Servente",
+   "unidade": "h",
+   "preco": "23.3698",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MÃO DE OBRA",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9764",
+   "descricao": "Grupo gerador - 7,2 kVA",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "12.3941",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9675",
+   "descricao": "Martelete perfurador/rompedor elétrico - 1,50 kW",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "2.2245",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9591",
+   "descricao": "Serra para corte de concreto e asfalto - 10 kW",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "25.1188",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M1379",
+   "descricao": "Argamassa polimérica monocomponente para reparos estruturais",
+   "unidade": "kg",
+   "preco": "6.2092",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M1385",
+   "descricao": "Disco de corte diamantado para concreto e asfalto - D = 350 mm",
+   "unidade": "un",
+   "preco": "462.0467",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M1391",
+   "descricao": "Ponteiro para martelete - D = 22 mm e C = 1,00 m",
+   "unidade": "un",
+   "preco": "491.8009",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "P9805",
+   "descricao": "Armador",
+   "unidade": "h",
+   "preco": "34.4481",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MÃO DE OBRA",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M0075",
+   "descricao": "Arame liso recozido em aço-carbono - D = 1,24 mm (18 BWG)",
+   "unidade": "kg",
+   "preco": "12.36",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M0004",
+   "descricao": "Aço CA 50",
+   "unidade": "kg",
+   "preco": "6.27",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9686",
+   "descricao": "Caminhão guindauto com capacidade de elevação de 6,2 t e carroceria de 7 t - 136 kW",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "354.3535",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9071",
+   "descricao": "Transportador manual carrinho de mão com capacidade de 80 l",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "0.7295",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9788",
+   "descricao": "Misturador de argamassa com capacidade de 0,250 m³ - 3,70 kW",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "42.311",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9064",
+   "descricao": "Transportador manual gerica com capacidade de 180 l",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "1.7844",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M0083",
+   "descricao": "Argamassa pré-dosada para grauteamento",
+   "unidade": "kg",
+   "preco": "1.9256",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "M1098",
+   "descricao": "Brita 0 (pedrisco)",
+   "unidade": "m³",
+   "preco": "192.5506",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9579",
+   "descricao": "Caminhão basculante com capacidade de 10 m³ - 210 kW",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "340.7407",
+   "origemPreco": null
+  },
+  {
+   "codigo": "E9592",
+   "descricao": "Caminhão carroceria com capacidade de 15 t - 188 kW",
+   "unidade": "h",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO",
+   "preco": "315.7298",
+   "origemPreco": null
+  }
+ ],
+ "equipamentos": [
+  {
+   "codigo": "E9050",
+   "chp": "422.0174",
+   "chi": "217.3048",
+   "depreciacao": "134.4462",
+   "juros": "47.4019",
+   "manutencao": "172.8593",
+   "materiaisOperacao": "31.8533",
+   "maoObraOperacao": "35.4567"
+  },
+  {
+   "codigo": "E9764",
+   "chp": "12.3941",
+   "chi": "0.8159",
+   "depreciacao": "0.6686",
+   "juros": "0.1473",
+   "manutencao": "0.4776",
+   "materiaisOperacao": "11.1006",
+   "maoObraOperacao": "0"
+  },
+  {
+   "codigo": "E9675",
+   "chp": "2.2245",
+   "chi": "1.1919",
+   "depreciacao": "1.0326",
+   "juros": "0.1593",
+   "manutencao": "1.0326",
+   "materiaisOperacao": "0",
+   "maoObraOperacao": "0"
+  },
+  {
+   "codigo": "E9591",
+   "chp": "25.1188",
+   "chi": "2.4826",
+   "depreciacao": "2.1508",
+   "juros": "0.3318",
+   "manutencao": "1.8819",
+   "materiaisOperacao": "20.7543",
+   "maoObraOperacao": "0"
+  },
+  {
+   "codigo": "E9686",
+   "chp": "354.3535",
+   "chi": "112.993",
+   "depreciacao": null,
+   "juros": null,
+   "manutencao": null,
+   "materiaisOperacao": null,
+   "maoObraOperacao": null
+  },
+  {
+   "codigo": "E9071",
+   "chp": "0.7295",
+   "chi": "0.4936",
+   "depreciacao": "0.4718",
+   "juros": "0.0218",
+   "manutencao": "0.2359",
+   "materiaisOperacao": "0",
+   "maoObraOperacao": "0"
+  },
+  {
+   "codigo": "E9788",
+   "chp": "42.311",
+   "chi": "33.7015",
+   "depreciacao": "3.9924",
+   "juros": "0.5389",
+   "manutencao": "3.9924",
+   "materiaisOperacao": "4.6171",
+   "maoObraOperacao": "29.1702"
+  },
+  {
+   "codigo": "E9064",
+   "chp": "1.7844",
+   "chi": "1.2074",
+   "depreciacao": "1.154",
+   "juros": "0.0534",
+   "manutencao": "0.577",
+   "materiaisOperacao": "0",
+   "maoObraOperacao": "0"
+  },
+  {
+   "codigo": "E9579",
+   "chp": "340.7407",
+   "chi": "89.4805",
+   "depreciacao": null,
+   "juros": null,
+   "manutencao": null,
+   "materiaisOperacao": null,
+   "maoObraOperacao": null
+  },
+  {
+   "codigo": "E9592",
+   "chp": "315.7298",
+   "chi": "87.1819",
+   "depreciacao": null,
+   "juros": null,
+   "manutencao": null,
+   "materiaisOperacao": null,
+   "maoObraOperacao": null
+  }
+ ],
+ "composicoes": [
+  {
+   "codigo": "0308308",
+   "descricao": "Aparelho de apoio metálico elastomérico fixo com capacidade de 1.500 kN - fornecimento e instalação",
+   "unidade": "un",
+   "grupo": null,
+   "precoPublicado": "5146.92",
+   "producaoEquipe": "2",
+   "fic": "0.02133",
+   "fit": null
+  },
+  {
+   "codigo": "0307084",
+   "descricao": "Lábios poliméricos em junta de pavimento de concreto - L = 20 mm e H = 30 mm - confecção e assentamento",
+   "unidade": "m",
+   "grupo": null,
+   "precoPublicado": "36.38",
+   "producaoEquipe": "5",
+   "fic": "0.02133",
+   "fit": null
+  },
+  {
+   "codigo": "0407819",
+   "descricao": "Armação em aço CA-50 - fornecimento, preparo e colocação",
+   "unidade": "kg",
+   "grupo": null,
+   "precoPublicado": "12.34",
+   "producaoEquipe": "1",
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "1108059",
+   "descricao": "Microconcreto para reparos e grauteamento - confecção em misturador e lançamento manual",
+   "unidade": "m³",
+   "grupo": null,
+   "precoPublicado": "3785.91",
+   "producaoEquipe": "1.22509",
+   "fic": "0.02031",
+   "fit": null
+  },
+  {
+   "codigo": "5914647",
+   "descricao": "Carga, manobra e descarga de agregados ou solos em caminhão basculante de 10 m³ - carga com carregadeira de 3,40 m³ (exclusa) e descarga livre",
+   "unidade": "t",
+   "grupo": null,
+   "precoPublicado": "2.02",
+   "producaoEquipe": "457.16",
+   "fic": "0.0264",
+   "fit": null
+  },
+  {
+   "codigo": "5915373",
+   "descricao": "Carga, manobra e descarga de materiais diversos em caminhão carroceria com capacidade de 7 t e com guindauto com capacidade de elevação de 6,2 t",
+   "unidade": "t",
+   "grupo": null,
+   "precoPublicado": "20.94",
+   "producaoEquipe": "19.36",
+   "fic": "0.0264",
+   "fit": null
+  },
+  {
+   "codigo": "5914655",
+   "descricao": "Carga, manobra e descarga de materiais diversos em caminhão carroceria de 15 t - carga e descarga manuais",
+   "unidade": "t",
+   "grupo": null,
+   "precoPublicado": "37.44",
+   "producaoEquipe": "12.34",
+   "fic": "0.0264",
+   "fit": null
+  },
+  {
+   "codigo": "5914359",
+   "descricao": "Transporte com caminhão basculante de 10 m³ - rodovia em leito natural",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "1.38",
+   "producaoEquipe": "249",
+   "fic": "0.02437",
+   "fit": null
+  },
+  {
+   "codigo": "5914374",
+   "descricao": "Transporte com caminhão basculante de 10 m³ - rodovia em revestimento primário",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "1.1",
+   "producaoEquipe": "311.25",
+   "fic": "0.0264",
+   "fit": null
+  },
+  {
+   "codigo": "5914389",
+   "descricao": "Transporte com caminhão basculante de 10 m³ - rodovia pavimentada",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "0.91",
+   "producaoEquipe": "373.5",
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "5914584",
+   "descricao": "Transporte com caminhão carroceria com capacidade de 7 t e com guindauto com capacidade de elevação de 6,2 t - rodovia em leito natural",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "3.07",
+   "producaoEquipe": "116.2",
+   "fic": "0.02437",
+   "fit": null
+  },
+  {
+   "codigo": "5914599",
+   "descricao": "Transporte com caminhão carroceria com capacidade de 7 t e com guindauto com capacidade de elevação de 6,2 t - rodovia em revestimento primário",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "2.46",
+   "producaoEquipe": "145.25",
+   "fic": "0.0264",
+   "fit": null
+  },
+  {
+   "codigo": "5914614",
+   "descricao": "Transporte com caminhão carroceria com capacidade de 7 t e com guindauto com capacidade de elevação de 6,2 t - rodovia pavimentada",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "2.03",
+   "producaoEquipe": "174.3",
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "5914449",
+   "descricao": "Transporte com caminhão carroceria de 15 t - rodovia em leito natural",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "1.23",
+   "producaoEquipe": "259.04",
+   "fic": "0.02437",
+   "fit": null
+  },
+  {
+   "codigo": "5914464",
+   "descricao": "Transporte com caminhão carroceria de 15 t - rodovia em revestimento primário",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "0.98",
+   "producaoEquipe": "323.8",
+   "fic": "0.0264",
+   "fit": null
+  },
+  {
+   "codigo": "5914479",
+   "descricao": "Transporte com caminhão carroceria de 15 t - rodovia pavimentada",
+   "unidade": "tkm",
+   "grupo": null,
+   "precoPublicado": "0.81",
+   "producaoEquipe": "388.56",
+   "fic": null,
+   "fit": null
+  }
+ ],
+ "itens": [
+  {
+   "composicaoCodigo": "0308308",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9050",
+   "coeficiente": "0.48193",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0308308",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9801",
+   "coeficiente": "4",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0308308",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9830",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0308308",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M2758",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0308308",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "1108059",
+   "coeficiente": "0.02305",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "D",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0308308",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5915373",
+   "coeficiente": "0.038",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "E",
+   "extra": {
+    "material": "M2758"
+   }
+  },
+  {
+   "composicaoCodigo": "0308308",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914584",
+   "coeficiente": "0.038",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "F",
+   "extra": {
+    "material": "M2758",
+    "ln": "5914584",
+    "rp": "5914599",
+    "p": "5914614"
+   }
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9764",
+   "coeficiente": "0.60241",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9675",
+   "coeficiente": "0.60241",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9591",
+   "coeficiente": "0.12048",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9821",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9824",
+   "coeficiente": "2",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M1379",
+   "coeficiente": "2.4",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M1385",
+   "coeficiente": "0.00667",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M1391",
+   "coeficiente": "0.0008",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914655",
+   "coeficiente": "0.0024",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "E",
+   "extra": {
+    "material": "M1379"
+   }
+  },
+  {
+   "composicaoCodigo": "0307084",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914449",
+   "coeficiente": "0.0024",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "F",
+   "extra": {
+    "material": "M1379",
+    "ln": "5914449",
+    "rp": "5914464",
+    "p": "5914479"
+   }
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9801",
+   "coeficiente": "0.09",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9805",
+   "coeficiente": "0.09",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M0004",
+   "coeficiente": "1.1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M0075",
+   "coeficiente": "0.015",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914655",
+   "coeficiente": "0.0011",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "E",
+   "extra": {
+    "material": "M0004"
+   }
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914655",
+   "coeficiente": "0.00002",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "E",
+   "extra": {
+    "material": "M0075"
+   }
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914449",
+   "coeficiente": "0.0011",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "F",
+   "extra": {
+    "material": "M0004",
+    "ln": "5914449",
+    "rp": "5914464",
+    "p": "5914479"
+   }
+  },
+  {
+   "composicaoCodigo": "0407819",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914449",
+   "coeficiente": "0.00002",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "F",
+   "extra": {
+    "material": "M0075",
+    "ln": "5914449",
+    "rp": "5914464",
+    "p": "5914479"
+   }
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9788",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9071",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "0.3",
+   "utilizacaoImprodutiva": "0.7",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9064",
+   "coeficiente": "2",
+   "utilizacaoOperativa": "0.2",
+   "utilizacaoImprodutiva": "0.8",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9821",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9824",
+   "coeficiente": "5",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M0083",
+   "coeficiente": "1811.25",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "M1098",
+   "coeficiente": "0.36225",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "C",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914655",
+   "coeficiente": "1.81125",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "E",
+   "extra": {
+    "material": "M0083"
+   }
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914647",
+   "coeficiente": "0.54338",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "E",
+   "extra": {
+    "material": "M1098"
+   }
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914449",
+   "coeficiente": "1.81125",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "F",
+   "extra": {
+    "material": "M0083",
+    "ln": "5914449",
+    "rp": "5914464",
+    "p": "5914479"
+   }
+  },
+  {
+   "composicaoCodigo": "1108059",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "5914359",
+   "coeficiente": "0.54338",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "F",
+   "extra": {
+    "material": "M1098",
+    "ln": "5914359",
+    "rp": "5914374",
+    "p": "5914389"
+   }
+  },
+  {
+   "composicaoCodigo": "5914647",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9579",
+   "coeficiente": "3",
+   "utilizacaoOperativa": "0.86",
+   "utilizacaoImprodutiva": "0.14",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5915373",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9686",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5915373",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9824",
+   "coeficiente": "2",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914655",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9592",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914655",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "P9824",
+   "coeficiente": "6",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": "B",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914359",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9579",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914374",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9579",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914389",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9579",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914584",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9686",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914599",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9686",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914614",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9686",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914449",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9592",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914464",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9592",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "5914479",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "E9592",
+   "coeficiente": "1",
+   "utilizacaoOperativa": "1",
+   "utilizacaoImprodutiva": "0",
+   "grupoSicro": "A",
+   "extra": null
+  }
+ ],
+ "encargos": {
+  "horistaPct": "109.22",
+  "mensalistaPct": "76.05"
+ },
+ "avisos": []
+}

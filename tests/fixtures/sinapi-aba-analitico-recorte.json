@@ -1,0 +1,563 @@
+{
+ "nome": "Analítico",
+ "linhas": [
+  [
+   "SINAPI - Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil"
+  ],
+  [
+   "RELATÓRIO ANALÍTICO DE COMPOSIÇÕES"
+  ],
+  [
+   "Mês de Referência:",
+   "10/2026",
+   null,
+   "Situações"
+  ],
+  [
+   "Data de emissão:",
+   "12/11/2026",
+   null,
+   "COM PREÇO",
+   "Insumos com preço coletado ou obtidos por aplicação de coeficiente em pelo menos uma UF."
+  ],
+  [
+   null,
+   null,
+   null,
+   "SEM PREÇO",
+   "Insumos necessários como item, mas ainda não participam do processo de coleta preços (não aparecem em outros relatórios)."
+  ],
+  [
+   null,
+   null,
+   null,
+   "COM CUSTO",
+   "Composições com custo calculado, com todos seus itens em situação COM CUSTO ou COM PREÇO."
+  ],
+  [
+   null,
+   null,
+   null,
+   "SEM CUSTO",
+   "Composições sem custo calculado pela falta de custo/preço de pelo menos um de seus itens."
+  ],
+  [
+   null,
+   null,
+   null,
+   "EM ESTUDO",
+   "Composições necessárias como item, porém atualmente em estudo (não aparecem em outros relatórios)."
+  ],
+  [],
+  [
+   "Grupo",
+   "Código da\r\nComposição",
+   "Tipo Item",
+   "Código do\r\nItem",
+   "Descrição",
+   "Unidade",
+   "Coeficiente",
+   "Situação"
+  ],
+  [
+   "Acessibilidade",
+   104658,
+   null,
+   null,
+   "PISO PODOTÁTIL DE ALERTA OU DIRECIONAL, DE CONCRETO, ASSENTADO SOBRE ARGAMASSA. AF_03/2024",
+   "M2",
+   null,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   104658,
+   "COMPOSICAO",
+   88316,
+   "SERVENTE COM ENCARGOS COMPLEMENTARES",
+   "H",
+   1.279,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   104658,
+   "COMPOSICAO",
+   88309,
+   "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+   "H",
+   0.639,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   104658,
+   "INSUMO",
+   36178,
+   "PISO TATIL / PODOTATIL, LADRILHO HIDRAULICO/CONCRETO, *40 X 40* CM, E= 2,5* CM, PADRAO TATIL ALERTA OU DIRECIONAL, COR NATURAL",
+   "UN",
+   6.4375,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   104658,
+   "INSUMO",
+   34357,
+   "REJUNTE CIMENTICIO, QUALQUER COR",
+   "KG",
+   0.24,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   104658,
+   "INSUMO",
+   34353,
+   "ARGAMASSA COLANTE AC II",
+   "KG",
+   8.62,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   null,
+   null,
+   "RAMPA DE ACESSIBILIDADE EM CONCRETO MOLDADO IN LOCO, EM CALÇADA NOVA COM LARGURA MAIOR OU IGUAL À 3,00 M, FCK 25MPA, COM PISO PODOTÁTIL. AF_03/2024",
+   "UN",
+   null,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   "COMPOSICAO",
+   104658,
+   "PISO PODOTÁTIL DE ALERTA OU DIRECIONAL, DE CONCRETO, ASSENTADO SOBRE ARGAMASSA. AF_03/2024",
+   "M2",
+   0.48,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   "COMPOSICAO",
+   94971,
+   "CONCRETO FCK = 25MPA, TRAÇO 1:2,3:2,7 (EM MASSA SECA DE CIMENTO/ AREIA MÉDIA/ BRITA 1) - PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_10/2026",
+   "M3",
+   0.6650246,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   "COMPOSICAO",
+   88316,
+   "SERVENTE COM ENCARGOS COMPLEMENTARES",
+   "H",
+   7.208,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   "COMPOSICAO",
+   88309,
+   "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+   "H",
+   3.604,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   "INSUMO",
+   5068,
+   "PREGO DE ACO POLIDO COM CABECA 17 X 21 (2 X 11)",
+   "KG",
+   0.036696,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   "INSUMO",
+   4718,
+   "PEDRA BRITADA N. 2 (19 A 38 MM) POSTO PEDREIRA/FORNECEDOR, SEM FRETE",
+   "M3",
+   0.027,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105002,
+   "INSUMO",
+   4509,
+   "SARRAFO *2,5 X 10* CM EM PINUS, MISTA OU EQUIVALENTE DA REGIAO - BRUTA",
+   "M",
+   7.48,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   null,
+   null,
+   "RAMPA DE ACESSIBILIDADE EM CONCRETO MOLDADO IN LOCO, EM CALÇADA NOVA COM LARGURA MENOR À 3,00 M, FCK 25MPA, COM PISO PODOTÁTIL. AF_03/2024",
+   "M2",
+   null,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   "COMPOSICAO",
+   104658,
+   "PISO PODOTÁTIL DE ALERTA OU DIRECIONAL, DE CONCRETO, ASSENTADO SOBRE ARGAMASSA. AF_03/2024",
+   "M2",
+   0.0576577,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   "COMPOSICAO",
+   94971,
+   "CONCRETO FCK = 25MPA, TRAÇO 1:2,3:2,7 (EM MASSA SECA DE CIMENTO/ AREIA MÉDIA/ BRITA 1) - PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_10/2026",
+   "M3",
+   0.1231527,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   "COMPOSICAO",
+   88316,
+   "SERVENTE COM ENCARGOS COMPLEMENTARES",
+   "H",
+   1.261,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   "COMPOSICAO",
+   88309,
+   "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+   "H",
+   0.63,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   "INSUMO",
+   5068,
+   "PREGO DE ACO POLIDO COM CABECA 17 X 21 (2 X 11)",
+   "KG",
+   0.0044079,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   "INSUMO",
+   4718,
+   "PEDRA BRITADA N. 2 (19 A 38 MM) POSTO PEDREIRA/FORNECEDOR, SEM FRETE",
+   "M3",
+   0.005,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105004,
+   "INSUMO",
+   4509,
+   "SARRAFO *2,5 X 10* CM EM PINUS, MISTA OU EQUIVALENTE DA REGIAO - BRUTA",
+   "M",
+   0.7399399,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   null,
+   null,
+   "RAMPA DE ACESSIBILIDADE EM CONCRETO MOLDADO IN LOCO, EM CALÇADA PRÉ EXISTENTE COM LARGURA MAIOR OU IGUAL À 3,00 M, FCK 25MPA, COM PISO PODOTÁTIL. AF_03/2024",
+   "UN",
+   null,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   104658,
+   "PISO PODOTÁTIL DE ALERTA OU DIRECIONAL, DE CONCRETO, ASSENTADO SOBRE ARGAMASSA. AF_03/2024",
+   "M2",
+   0.48,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   94971,
+   "CONCRETO FCK = 25MPA, TRAÇO 1:2,3:2,7 (EM MASSA SECA DE CIMENTO/ AREIA MÉDIA/ BRITA 1) - PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_10/2026",
+   "M3",
+   0.6650246,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   90965,
+   "COMPRESSOR DE AR REBOCÁVEL, VAZÃO 89 PCM, PRESSÃO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTÊNCIA 20 CV - CHI DIURNO. AF_06/2015",
+   "CHI",
+   5.2258834,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   90964,
+   "COMPRESSOR DE AR REBOCÁVEL, VAZÃO 89 PCM, PRESSÃO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTÊNCIA 20 CV - CHP DIURNO. AF_06/2015",
+   "CHP",
+   0.9539216,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   88316,
+   "SERVENTE COM ENCARGOS COMPLEMENTARES",
+   "H",
+   17.011,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   88309,
+   "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+   "H",
+   2.325195,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   5952,
+   "MARTELETE OU ROMPEDOR PNEUMÁTICO MANUAL, 28 KG, COM SILENCIADOR - CHI DIURNO. AF_07/2016",
+   "CHI",
+   5.2258834,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "COMPOSICAO",
+   5795,
+   "MARTELETE OU ROMPEDOR PNEUMÁTICO MANUAL, 28 KG, COM SILENCIADOR - CHP DIURNO. AF_07/2016",
+   "CHP",
+   0.9539216,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "INSUMO",
+   5068,
+   "PREGO DE ACO POLIDO COM CABECA 17 X 21 (2 X 11)",
+   "KG",
+   0.036696,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "INSUMO",
+   4718,
+   "PEDRA BRITADA N. 2 (19 A 38 MM) POSTO PEDREIRA/FORNECEDOR, SEM FRETE",
+   "M3",
+   0.1998,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105003,
+   "INSUMO",
+   4509,
+   "SARRAFO *2,5 X 10* CM EM PINUS, MISTA OU EQUIVALENTE DA REGIAO - BRUTA",
+   "M",
+   7.48,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   null,
+   null,
+   "RAMPA DE ACESSIBILIDADE EM CONCRETO MOLDADO IN LOCO, EM CALÇADA PRÉ EXISTENTE COM LARGURA MENOR À 3,00 M, FCK 25MPA, COM PISO PODOTÁTIL. AF_03/2024",
+   "M2",
+   null,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   104658,
+   "PISO PODOTÁTIL DE ALERTA OU DIRECIONAL, DE CONCRETO, ASSENTADO SOBRE ARGAMASSA. AF_03/2024",
+   "M2",
+   0.0576577,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   94971,
+   "CONCRETO FCK = 25MPA, TRAÇO 1:2,3:2,7 (EM MASSA SECA DE CIMENTO/ AREIA MÉDIA/ BRITA 1) - PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_10/2026",
+   "M3",
+   0.1231527,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   90965,
+   "COMPRESSOR DE AR REBOCÁVEL, VAZÃO 89 PCM, PRESSÃO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTÊNCIA 20 CV - CHI DIURNO. AF_06/2015",
+   "CHI",
+   0.9677562,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   90964,
+   "COMPRESSOR DE AR REBOCÁVEL, VAZÃO 89 PCM, PRESSÃO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTÊNCIA 20 CV - CHP DIURNO. AF_06/2015",
+   "CHP",
+   0.1766521,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   88316,
+   "SERVENTE COM ENCARGOS COMPLEMENTARES",
+   "H",
+   3.076,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   88309,
+   "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+   "H",
+   0.3935917,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   5952,
+   "MARTELETE OU ROMPEDOR PNEUMÁTICO MANUAL, 28 KG, COM SILENCIADOR - CHI DIURNO. AF_07/2016",
+   "CHI",
+   0.9677562,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "COMPOSICAO",
+   5795,
+   "MARTELETE OU ROMPEDOR PNEUMÁTICO MANUAL, 28 KG, COM SILENCIADOR - CHP DIURNO. AF_07/2016",
+   "CHP",
+   0.1766521,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "INSUMO",
+   5068,
+   "PREGO DE ACO POLIDO COM CABECA 17 X 21 (2 X 11)",
+   "KG",
+   0.0044079,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "INSUMO",
+   4718,
+   "PEDRA BRITADA N. 2 (19 A 38 MM) POSTO PEDREIRA/FORNECEDOR, SEM FRETE",
+   "M3",
+   0.037,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105005,
+   "INSUMO",
+   4509,
+   "SARRAFO *2,5 X 10* CM EM PINUS, MISTA OU EQUIVALENTE DA REGIAO - BRUTA",
+   "M",
+   0.7399399,
+   "COM PREÇO"
+  ],
+  [
+   "Acessibilidade",
+   105006,
+   null,
+   null,
+   "RAMPA DE ACESSIBILIDADE EM CONCRETO PRÉ MOLDADO, EM CALÇADA NOVA COM LARGURA MAIOR OU IGUAL À 3,00 M, FCK 25MPA, COM PISO PODOTÁTIL. AF_03/2024",
+   "UN",
+   null,
+   "SEM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105006,
+   "COMPOSICAO",
+   88316,
+   "SERVENTE COM ENCARGOS COMPLEMENTARES",
+   "H",
+   2.189,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105006,
+   "COMPOSICAO",
+   88309,
+   "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+   "H",
+   1.094,
+   "COM CUSTO"
+  ],
+  [
+   "Acessibilidade",
+   105006,
+   "COMPOSICAO",
+   87307,
+   "ARGAMASSA TRAÇO 1:6 (EM VOLUME DE CIMENTO E AREIA MÉDIA ÚMIDA) PARA CONTRAPISO, PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_07/2026",
+   "M3",
+   0.131886,
+   "COM CUSTO"
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* Paleta de prancheta técnica: papel claro, tinta grafite, acento azul-petróleo. */
+@theme {
+  --color-fundo: #f4f3ef;
+  --color-superficie: #ffffff;
+  --color-borda: #dcd9d0;
+  --color-tinta: #1f2328;
+  --color-suave: #5d636b;
+  --color-acento: #1d5c6b;
+  --color-acento-forte: #154550;
+  --color-info: #2563a8;
+  --color-sucesso: #2e7d4f;
+  --color-aviso: #a86614;
+  --color-perigo: #b3261e;
+  --font-sans: var(--fonte-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--fonte-mono), ui-monospace, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="claro"]) {
+    --color-fundo: #16191d;
+    --color-superficie: #1e2227;
+    --color-borda: #343a42;
+    --color-tinta: #e7e9ec;
+    --color-suave: #9aa2ad;
+    --color-acento: #4fa3b5;
+    --color-acento-forte: #6dbccc;
+  }
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  background: var(--color-fundo);
+  color: var(--color-tinta);
+}
+
+@media print {
+  .nao-imprimir {
+    display: none !important;
+  }
+}

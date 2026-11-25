@@ -1,0 +1,1349 @@
+{
+ "fonte": "SINAPI",
+ "layout": "sinapi-referencia-2025",
+ "uf": "PI",
+ "mesAno": "2026-10-01",
+ "desonerado": false,
+ "insumos": [
+  {
+   "codigo": "37370",
+   "descricao": "ALIMENTACAO - HORISTA (COLETADO CAIXA - ENCARGOS COMPLEMENTARES)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "2.48",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "46844",
+   "descricao": "ALIMENTACAO - HORISTA (SEM CREDITO DE IVA - COLETADO CAIXA - ENCARGOS COMPLEMENTARES)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "0.01",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "367",
+   "descricao": "AREIA GROSSA - POSTO JAZIDA/FORNECEDOR (RETIRADO NA JAZIDA, SEM TRANSPORTE)",
+   "unidade": "M3",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "100.04",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "370",
+   "descricao": "AREIA MEDIA - POSTO JAZIDA/FORNECEDOR (RETIRADO NA JAZIDA, SEM TRANSPORTE)",
+   "unidade": "M3",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "98.75",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "34353",
+   "descricao": "ARGAMASSA COLANTE AC II",
+   "unidade": "KG",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "1.45",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "10535",
+   "descricao": "BETONEIRA, CAPACIDADE NOMINAL 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELETRICO TRIFASICO 220/380 V, POTENCIA 2 CV, SEM CARREGADOR",
+   "unidade": "UN",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO (AQUISIÇÃO)",
+   "preco": "6880.24",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "45868",
+   "descricao": "BETONEIRA, CAPACIDADE NOMINAL 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELETRICO TRIFASICO 220/380 V, POTENCIA 2 CV, SEM CARREGADOR (AQUISIÇÃO SEM CRÉDITO DE IVA)",
+   "unidade": "UN",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO (SEM CRÉDITO IVA)",
+   "preco": "6880.24",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "36397",
+   "descricao": "BETONEIRA, CAPACIDADE NOMINAL 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELETRICO TRIFASICO 220/380V, POTENCIA 4CV, SEM CARREGADOR",
+   "unidade": "UN",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO (AQUISIÇÃO)",
+   "preco": "27987.41",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "45908",
+   "descricao": "BETONEIRA, CAPACIDADE NOMINAL 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELETRICO TRIFASICO 220/380V, POTENCIA 4CV, SEM CARREGADOR (AQUISIÇÃO SEM CRÉDITO DE IVA)",
+   "unidade": "UN",
+   "tipo": "EQUIPAMENTO",
+   "classificacao": "EQUIPAMENTO (SEM CRÉDITO IVA)",
+   "preco": "27987.41",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "7271",
+   "descricao": "BLOCO CERAMICO / TIJOLO VAZADO PARA ALVENARIA DE VEDACAO, 8 FUROS NA HORIZONTAL DE 9 X 19 X 19 CM (L X A X C)",
+   "unidade": "UN",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "1.09",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "1106",
+   "descricao": "CAL HIDRATADA CH-I PARA ARGAMASSAS",
+   "unidade": "KG",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "1.35",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "1379",
+   "descricao": "CIMENTO PORTLAND COMPOSTO CP II-32",
+   "unidade": "KG",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "1.18",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "2705",
+   "descricao": "ENERGIA ELETRICA ATE 2000 KWH INDUSTRIAL, SEM DEMANDA",
+   "unidade": "KWH",
+   "tipo": "SERVICO",
+   "classificacao": "ESPECIAIS",
+   "preco": "1.1",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "43488",
+   "descricao": "EPI - FAMILIA OPERADOR ESCAVADEIRA - HORISTA (ENCARGOS COMPLEMENTARES - COLETADO CAIXA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "1.13",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "43489",
+   "descricao": "EPI - FAMILIA PEDREIRO - HORISTA (ENCARGOS COMPLEMENTARES - COLETADO CAIXA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "1.81",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "43491",
+   "descricao": "EPI - FAMILIA SERVENTE - HORISTA (ENCARGOS COMPLEMENTARES - COLETADO CAIXA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "1.89",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "37372",
+   "descricao": "EXAMES - HORISTA (COLETADO CAIXA - ENCARGOS COMPLEMENTARES)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "1.42",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "43464",
+   "descricao": "FERRAMENTAS - FAMILIA OPERADOR ESCAVADEIRA - HORISTA (ENCARGOS COMPLEMENTARES - COLETADO CAIXA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "0.05",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "43465",
+   "descricao": "FERRAMENTAS - FAMILIA PEDREIRO - HORISTA (ENCARGOS COMPLEMENTARES - COLETADO CAIXA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "0.9",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "43467",
+   "descricao": "FERRAMENTAS - FAMILIA SERVENTE - HORISTA (ENCARGOS COMPLEMENTARES - COLETADO CAIXA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "1",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "37666",
+   "descricao": "OPERADOR DE BETONEIRA ESTACIONARIA / MISTURADOR (HORISTA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MAO DE OBRA",
+   "preco": "23.02",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "4721",
+   "descricao": "PEDRA BRITADA N. 1 (9,5 A 19 MM) POSTO PEDREIRA/FORNECEDOR, SEM FRETE",
+   "unidade": "M3",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "273.06",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "4750",
+   "descricao": "PEDREIRO (HORISTA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MAO DE OBRA",
+   "preco": "21.8",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "37395",
+   "descricao": "PINO DE ACO COM FURO, HASTE = 27 MM (ACAO DIRETA)",
+   "unidade": "CENTO",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "46.23",
+   "origemPreco": "AS"
+  },
+  {
+   "codigo": "36178",
+   "descricao": "PISO TATIL / PODOTATIL, LADRILHO HIDRAULICO/CONCRETO, *40 X 40* CM, E= 2,5* CM, PADRAO TATIL ALERTA OU DIRECIONAL, COR NATURAL",
+   "unidade": "UN",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "13.79",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "34357",
+   "descricao": "REJUNTE CIMENTICIO, QUALQUER COR",
+   "unidade": "KG",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "4.58",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "37373",
+   "descricao": "SEGURO - HORISTA (COLETADO CAIXA - ENCARGOS COMPLEMENTARES)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "0.11",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "6111",
+   "descricao": "SERVENTE DE OBRAS (HORISTA)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "MAO DE OBRA",
+   "preco": "15.94",
+   "origemPreco": "C"
+  },
+  {
+   "codigo": "34557",
+   "descricao": "TELA DE ACO SOLDADA GALVANIZADA/ZINCADA PARA ALVENARIA, FIO D = *1,20 A 1,70* MM, MALHA 15 X 15 MM, (C X L) *50 X 7,5* CM",
+   "unidade": "M",
+   "tipo": "MATERIAL",
+   "classificacao": "MATERIAL",
+   "preco": "2.29",
+   "origemPreco": "CR"
+  },
+  {
+   "codigo": "37371",
+   "descricao": "TRANSPORTE - HORISTA (COLETADO CAIXA - ENCARGOS COMPLEMENTARES)",
+   "unidade": "H",
+   "tipo": "MAO_OBRA",
+   "classificacao": "ENCARGOS COMPLEMENTARES",
+   "preco": "0.48",
+   "origemPreco": "C"
+  }
+ ],
+ "equipamentos": [],
+ "composicoes": [
+  {
+   "codigo": "104658",
+   "descricao": "PISO PODOTÁTIL DE ALERTA OU DIRECIONAL, DE CONCRETO, ASSENTADO SOBRE ARGAMASSA. AF_03/2024",
+   "unidade": "M2",
+   "grupo": "Acessibilidade",
+   "precoPublicado": "151.44",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "103328",
+   "descricao": "ALVENARIA DE VEDAÇÃO DE BLOCOS CERÂMICOS FURADOS NA HORIZONTAL DE 9X19X19 CM (ESPESSURA 9 CM) E ARGAMASSA DE ASSENTAMENTO COM PREPARO EM BETONEIRA. AF_08/2026",
+   "unidade": "M2",
+   "grupo": "Alvenaria de Vedação",
+   "precoPublicado": "108.39",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "87292",
+   "descricao": "ARGAMASSA TRAÇO 1:2:8 (EM VOLUME DE CIMENTO, CAL E AREIA MÉDIA ÚMIDA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_07/2026",
+   "unidade": "M3",
+   "grupo": "Argamassas",
+   "precoPublicado": "725.73",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "87313",
+   "descricao": "ARGAMASSA TRAÇO 1:3 (EM VOLUME DE CIMENTO E AREIA GROSSA ÚMIDA) PARA CHAPISCO CONVENCIONAL, PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_07/2026",
+   "unidade": "M3",
+   "grupo": "Argamassas",
+   "precoPublicado": "735.35",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "87879",
+   "descricao": "CHAPISCO APLICADO EM ALVENARIAS E ESTRUTURAS DE CONCRETO INTERNAS, COM COLHER DE PEDREIRO. ARGAMASSA TRAÇO 1:3 COM PREPARO EM BETONEIRA 400L. AF_10/2022",
+   "unidade": "M2",
+   "grupo": "Chapisco",
+   "precoPublicado": "5.32",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88831",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHI DIURNO. AF_05/2023",
+   "unidade": "CHI",
+   "grupo": "Custos Horários Produtivo e Improdutivo dos Equipamentos",
+   "precoPublicado": "0.54",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88830",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHP DIURNO. AF_05/2023",
+   "unidade": "CHP",
+   "grupo": "Custos Horários Produtivo e Improdutivo dos Equipamentos",
+   "precoPublicado": "2.39",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "89226",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 4 CV, SEM CARREGADOR - CHI DIURNO. AF_05/2023",
+   "unidade": "CHI",
+   "grupo": "Custos Horários Produtivo e Improdutivo dos Equipamentos",
+   "precoPublicado": "2.2",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "89225",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 4 CV, SEM CARREGADOR - CHP DIURNO. AF_05/2023",
+   "unidade": "CHP",
+   "grupo": "Custos Horários Produtivo e Improdutivo dos Equipamentos",
+   "precoPublicado": "6.9",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88826",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - DEPRECIAÇÃO. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "0.44",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88827",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - JUROS. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "0.1",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88828",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - MANUTENÇÃO. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "0.48",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88829",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - MATERIAIS NA OPERAÇÃO. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "1.37",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "89221",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 4 CV, SEM CARREGADOR - DEPRECIAÇÃO. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "1.79",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "89222",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 4 CV, SEM CARREGADOR - JUROS. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "0.41",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "89223",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 4 CV, SEM CARREGADOR - MANUTENÇÃO. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "1.95",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "89224",
+   "descricao": "BETONEIRA CAPACIDADE NOMINAL DE 600 L, CAPACIDADE DE MISTURA 360 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 4 CV, SEM CARREGADOR - MATERIAIS NA OPERAÇÃO. AF_05/2023",
+   "unidade": "H",
+   "grupo": "Depreciação, Juros, Impostos e Seguros, Manutenção e Materiais na Operação dos Equipamentos",
+   "precoPublicado": "2.75",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "95389",
+   "descricao": "CURSO DE CAPACITAÇÃO PARA OPERADOR DE BETONEIRA ESTACIONÁRIA/MISTURADOR (ENCARGOS COMPLEMENTARES) - HORISTA",
+   "unidade": "H",
+   "grupo": "Livro SINAPI: Cálculos e Parâmetros",
+   "precoPublicado": "0.19",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "95371",
+   "descricao": "CURSO DE CAPACITAÇÃO PARA PEDREIRO (ENCARGOS COMPLEMENTARES) - HORISTA",
+   "unidade": "H",
+   "grupo": "Livro SINAPI: Cálculos e Parâmetros",
+   "precoPublicado": "0.46",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "95378",
+   "descricao": "CURSO DE CAPACITAÇÃO PARA SERVENTE (ENCARGOS COMPLEMENTARES) - HORISTA",
+   "unidade": "H",
+   "grupo": "Livro SINAPI: Cálculos e Parâmetros",
+   "precoPublicado": "0.33",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88377",
+   "descricao": "OPERADOR DE BETONEIRA ESTACIONÁRIA/MISTURADOR COM ENCARGOS COMPLEMENTARES",
+   "unidade": "H",
+   "grupo": "Livro SINAPI: Cálculos e Parâmetros",
+   "precoPublicado": "28.89",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88309",
+   "descricao": "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+   "unidade": "H",
+   "grupo": "Livro SINAPI: Cálculos e Parâmetros",
+   "precoPublicado": "29.47",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "88316",
+   "descricao": "SERVENTE COM ENCARGOS COMPLEMENTARES",
+   "unidade": "H",
+   "grupo": "Livro SINAPI: Cálculos e Parâmetros",
+   "precoPublicado": "23.66",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  },
+  {
+   "codigo": "94971",
+   "descricao": "CONCRETO FCK = 25MPA, TRAÇO 1:2,3:2,7 (EM MASSA SECA DE CIMENTO/ AREIA MÉDIA/ BRITA 1) - PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L. AF_10/2026",
+   "unidade": "M3",
+   "grupo": "Produção de Concreto",
+   "precoPublicado": "694.5",
+   "producaoEquipe": null,
+   "fic": null,
+   "fit": null
+  }
+ ],
+ "itens": [
+  {
+   "composicaoCodigo": "104658",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88316",
+   "coeficiente": "1.279",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "104658",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88309",
+   "coeficiente": "0.639",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "104658",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "36178",
+   "coeficiente": "6.4375",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "104658",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "34357",
+   "coeficiente": "0.24",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "104658",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "34353",
+   "coeficiente": "8.62",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "103328",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88316",
+   "coeficiente": "0.8052225",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "103328",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88309",
+   "coeficiente": "1.6104449",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "103328",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "87292",
+   "coeficiente": "0.013953",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "103328",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37395",
+   "coeficiente": "0.009668",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "103328",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "34557",
+   "coeficiente": "0.8057",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "103328",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "7271",
+   "coeficiente": "27.0638",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87292",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88831",
+   "coeficiente": "3.7073416",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87292",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88830",
+   "coeficiente": "1.0742483",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87292",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88377",
+   "coeficiente": "4.7815899",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87292",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "1379",
+   "coeficiente": "196.6318514",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87292",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "1106",
+   "coeficiente": "174.7838679",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87292",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "370",
+   "coeficiente": "1.1652258",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87313",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88831",
+   "coeficiente": "3.521489",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87313",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88830",
+   "coeficiente": "1.0203952",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87313",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88377",
+   "coeficiente": "4.5418843",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87313",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "1379",
+   "coeficiente": "427.7371627",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87313",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "367",
+   "coeficiente": "0.950527",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87879",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88316",
+   "coeficiente": "0.0255",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87879",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88309",
+   "coeficiente": "0.0681",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "87879",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "87313",
+   "coeficiente": "0.0037",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88831",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88827",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88831",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88826",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88830",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88829",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88830",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88828",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88830",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88827",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88830",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88826",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89226",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89222",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89226",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89221",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89225",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89224",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89225",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89223",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89225",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89222",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89225",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89221",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88826",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "10535",
+   "coeficiente": "0.000064",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88827",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "45868",
+   "coeficiente": "0.0000148",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88828",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "10535",
+   "coeficiente": "0.00007",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88829",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "2705",
+   "coeficiente": "1.25",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89221",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "36397",
+   "coeficiente": "0.000064",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89222",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "45908",
+   "coeficiente": "0.0000148",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89223",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "36397",
+   "coeficiente": "0.00007",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "89224",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "2705",
+   "coeficiente": "2.5",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "95389",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37666",
+   "coeficiente": "0.00831",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "95371",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "4750",
+   "coeficiente": "0.0212",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "95378",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "6111",
+   "coeficiente": "0.0212",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "95389",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "46844",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "43488",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "43464",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37666",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37373",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37372",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37371",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88377",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37370",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "95371",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "46844",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "43489",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "43465",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37373",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37372",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37371",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37370",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88309",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "4750",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "95378",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "46844",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "43491",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "43467",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37373",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37372",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37371",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "37370",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "88316",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "6111",
+   "coeficiente": "1",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "94971",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89226",
+   "coeficiente": "0.3489033",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "94971",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "89225",
+   "coeficiente": "0.5214489",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "94971",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88377",
+   "coeficiente": "0.8703522",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "94971",
+   "tipoItem": "COMPOSICAO",
+   "itemCodigo": "88316",
+   "coeficiente": "0.2227247",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "94971",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "4721",
+   "coeficiente": "0.5920022",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "94971",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "1379",
+   "coeficiente": "361.7791243",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  },
+  {
+   "composicaoCodigo": "94971",
+   "tipoItem": "INSUMO",
+   "itemCodigo": "370",
+   "coeficiente": "0.7211464",
+   "utilizacaoOperativa": null,
+   "utilizacaoImprodutiva": null,
+   "grupoSicro": null,
+   "extra": null
+  }
+ ],
+ "encargos": {
+  "horistaPct": "113.78",
+  "mensalistaPct": "71.59"
+ },
+ "avisos": []
+}
